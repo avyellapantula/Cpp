@@ -18,7 +18,7 @@ using namespace std;
 // Virtual Class
 
 //******************************
-//	Stock
+//	Stockx
 //******************************
 Stock::Stock(void) : Asset()
 {
